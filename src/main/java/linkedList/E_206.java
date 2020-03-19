@@ -1,7 +1,7 @@
 package linkedList;
 
 // 题目地址https://leetcode-cn.com/problems/reverse-linked-list/submissions/
-//几种方法的消耗都差不多: 耗时：0s  空间：38M（超级大，打败了5%的选手，嘿嘿嘿）
+//几种方法的消耗都差不多: 耗时：0s  空间：38M（打败了5%的选手，嘿嘿嘿）
 public class E_206 {
 
     //原来的做法是利用外部空间（已删除），学习数据结构时老师讲了头插法
