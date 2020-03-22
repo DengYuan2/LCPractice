@@ -1,6 +1,6 @@
 package linkedList;
 
-//题目 https://leetcode-cn.com/problems/merge-two-sorted-lists/description/
+//合并两有序链表 https://leetcode-cn.com/problems/merge-two-sorted-lists/description/
 //思路解析；https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/he-bing-liang-ge-you-xu-lian-biao-by-leetcode/
 //以下几个方法的时间和空间差不多
 //todo 我发现在不同的时间提交第一个方法所得到的用时和内存消耗是有点差距的，所以关键是掌握好的方法
