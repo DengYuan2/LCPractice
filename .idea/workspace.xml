@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tree/E_104.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/E_104.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/E_543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/E_543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/sum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/E_543.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/E_543.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,70 +82,51 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1480" />
+          <entry key="java" value="4270" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1480" />
+          <entry key="JAVA" value="4270" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="9" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_110.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="19" selection-end-column="30" />
-              <folding>
-                <element signature="e#2227#2228#0" expanded="true" />
-                <element signature="e#2265#2266#0" expanded="true" />
-                <element signature="method#recur#0;class#E_110#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_543.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_617.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="46" selection-end-column="22" />
+            <state relative-caret-position="209">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1398#1408#0" expanded="true" />
-                <element signature="e#1784#1794#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-              <folding>
-                <element signature="e#49043#49044#0" expanded="true" />
-                <element signature="e#49082#49083#0" expanded="true" />
+                <element signature="method#mergeTrees#0;class#E_617#0" />
+                <element signature="e#1632#1644#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -195,12 +177,15 @@
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_234.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_725.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_328.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/sum.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_104.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_543.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/General.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/E_226.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/E_617.java" />
       </list>
     </option>
   </component>
@@ -217,11 +202,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="872" />
-    <option name="y" value="56" />
-    <option name="width" value="917" />
-    <option name="height" value="840" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="597" />
+    <option name="y" value="40" />
+    <option name="width" value="1308" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectId" id="1THI9fRItkMxp7zS40n7t3Wp8F7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -232,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,22 +249,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="before" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -286,13 +256,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585056067283" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585139659100" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructure" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -316,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E_543">
+  <component name="RunManager" selected="Application.E_617">
     <configuration name="E_104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.E_104" />
       <module name="LCPractice" />
@@ -346,6 +315,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E_226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.E_226" />
+      <module name="Netty_book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E_543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.E_543" />
       <module name="Netty_book" />
@@ -359,25 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_328" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.M_328" />
-      <module name="LCPractice" />
+    <configuration name="E_617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.E_617" />
+      <module name="Netty_book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M_725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.M_725" />
-      <module name="LCPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,19 +402,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M_725" />
-      <item itemvalue="Application.M_328" />
       <item itemvalue="Application.E_104" />
       <item itemvalue="Application.E_110" />
       <item itemvalue="Application.E_543" />
+      <item itemvalue="Application.E_226" />
+      <item itemvalue="Application.E_617" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E_617" />
+        <item itemvalue="Application.E_226" />
         <item itemvalue="Application.E_543" />
         <item itemvalue="Application.E_110" />
         <item itemvalue="Application.E_104" />
-        <item itemvalue="Application.M_328" />
-        <item itemvalue="Application.M_725" />
       </list>
     </recent_temporary>
   </component>
@@ -479,12 +448,15 @@
       <workItem from="1584928582440" duration="239000" />
       <workItem from="1584950820868" duration="15610000" />
       <workItem from="1585008552265" duration="6744000" />
-      <workItem from="1585043875928" duration="9720000" />
+      <workItem from="1585043875928" duration="9771000" />
+      <workItem from="1585104310744" duration="597000" />
+      <workItem from="1585110587210" duration="632000" />
+      <workItem from="1585123716102" duration="12842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98650000" />
+    <option name="totallyTimeSpent" value="112772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,10 +468,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="478" y="32" width="1046" height="751" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36592594" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5516194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,17 +480,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27234042" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.67903525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47375888" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.3248227" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.42300555" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6255319" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.23120567" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.17439704" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -561,9 +533,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tree/E_543.java</url>
-          <line>43</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/E_617.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -690,20 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/sum.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -715,38 +679,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_104.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#maxDepth3#0;class#E_104#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#2227#2228#0" expanded="true" />
-            <element signature="e#2265#2266#0" expanded="true" />
-            <element signature="method#recur#0;class#E_110#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="22458">
           <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
           <folding>
             <element signature="e#49043#49044#0" expanded="true" />
@@ -755,14 +693,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_543.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_104.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="46" selection-end-column="22" />
+        <state relative-caret-position="418">
+          <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding>
+            <element signature="method#isBalanced1#0;class#E_110#0" />
+            <element signature="method#maxDepth#0;class#E_110#0" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="e#2267#2268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/sum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/General.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1398#1408#0" expanded="true" />
-            <element signature="e#1784#1794#0" expanded="true" />
+            <element signature="method#buildTree#0;class#General#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_543.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#maxDepth#0;class#E_543#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_617.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mergeTrees#0;class#E_617#0" />
+            <element signature="e#1632#1644#0" expanded="true" />
           </folding>
         </state>
       </provider>
