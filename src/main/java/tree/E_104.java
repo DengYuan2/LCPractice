@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+//数的高度
 public class E_104 {
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(1);
@@ -30,7 +31,8 @@ public class E_104 {
         System.out.println(i2);
         int i3 = e.maxDepth3(node1);
         System.out.println(i3);
-//        e.list(node1);
+        System.out.println();
+        e.list(node1);
     }
 
     //学习数据结构时老师讲过，所以会写
@@ -92,7 +94,7 @@ public class E_104 {
         return height;
     }
 
-    //补充：层次遍历
+    //补充：中序遍历
     public void list(TreeNode root){
         if (root==null){
             return;

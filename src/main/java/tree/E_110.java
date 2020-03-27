@@ -37,7 +37,8 @@ public class E_110 {
         }
         boolean flag = true;
         if (Math.abs(maxDepth(root.left) - maxDepth(root.right)) > 1) {
-            return false;
+            flag=false;
+            return flag;
         }
         if (root.left != null) {
             flag = isBalanced1(root.left);
