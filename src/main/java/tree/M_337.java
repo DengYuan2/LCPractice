@@ -3,6 +3,8 @@ package tree;
 import java.awt.image.RasterOp;
 import java.util.HashMap;
 
+// 间隔遍历；打家劫舍Ⅲ
+// https://leetcode-cn.com/problems/house-robber-iii/description/
 public class M_337 {
     public static void main(String[] args) {
         M_337 m = new M_337();
@@ -68,8 +70,6 @@ public class M_337 {
     }
 
     //官方网友（网址同上）对rob的优化：
-
-
     public int rob3(TreeNode root){
 
         HashMap<TreeNode, Integer> map = new HashMap<TreeNode, Integer>();
@@ -93,6 +93,8 @@ public class M_337 {
         return value2;
 
     }
+
+    //对rob3的优化，没看呢。。。。。
 
 
 }
