@@ -56,4 +56,17 @@ public class General {
         }
 
     }
+
+    //用数组构建链表
+    public ListNode buileNodeList(int[] arr){
+        ListNode head = new ListNode(-1);
+        ListNode node = head;
+        for (int i = 0; i < arr.length; i++) {
+            ListNode listNode = new ListNode(arr[i]);
+            node.next=listNode;
+            node=node.next;
+
+        }
+        return head.next;
+    }
 }
