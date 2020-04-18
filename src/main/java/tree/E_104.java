@@ -94,7 +94,7 @@ public class E_104 {
         return height;
     }
 
-    //补充：中序遍历
+    //补充：前序遍历
     public void list(TreeNode root){
         if (root==null){
             return;
