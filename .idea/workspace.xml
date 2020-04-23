@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/trie/M_208.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,14 +99,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="39812" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="39837" />
           <entry key="txt" value="493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39812" />
-          <entry key="PLAIN_TEXT" value="493" />
+          <entry key="JAVA" value="39837" />
+          <entry key="PLAIN_TEXT" value="500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -207,19 +208,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/Trie.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="247">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
+                <element signature="class#Node#0;class#Trie#0" />
                 <element signature="e#453#454#0" expanded="true" />
                 <element signature="e#487#488#0" expanded="true" />
+                <element signature="method#insert#1;class#Trie#0" />
                 <element signature="e#967#968#0" expanded="true" />
                 <element signature="e#998#999#0" expanded="true" />
                 <element signature="e#1040#1041#0" expanded="true" />
                 <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="method#search#1;class#Trie#0" />
                 <element signature="e#1448#1449#0" expanded="true" />
                 <element signature="e#1482#1483#0" expanded="true" />
+                <element signature="method#startsWith#1;class#Trie#0" />
               </folding>
             </state>
           </provider>
@@ -268,7 +273,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Level_1/E_206.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_160.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_83.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_19.java" />
@@ -319,6 +323,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/trie/Trie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/trie/M_208.java" />
       </list>
     </option>
   </component>
@@ -335,7 +340,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="753" />
     <option name="y" value="26" />
     <option name="width" value="1220" />
@@ -379,6 +384,23 @@
               <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="trie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -399,7 +421,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587649058584" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587649778104" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -620,7 +642,7 @@
       <workItem from="1587210208157" duration="5950000" />
       <workItem from="1587298783302" duration="5423000" />
       <workItem from="1587383578328" duration="49000" />
-      <workItem from="1587644462061" duration="3535000" />
+      <workItem from="1587644462061" duration="4052000" />
     </task>
     <servers />
   </component>
@@ -642,7 +664,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275022000" />
+    <option name="totallyTimeSpent" value="275539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -654,7 +676,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="603" y="21" width="976" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.4852547" />
@@ -666,13 +688,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.33521923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4888889" weight="0.33617023" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.32107496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" weight="0.14042553" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" visible="true" weight="0.24539007" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
@@ -1236,19 +1258,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/Trie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="247">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
+            <element signature="class#Node#0;class#Trie#0" />
             <element signature="e#453#454#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
+            <element signature="method#insert#1;class#Trie#0" />
             <element signature="e#967#968#0" expanded="true" />
             <element signature="e#998#999#0" expanded="true" />
             <element signature="e#1040#1041#0" expanded="true" />
             <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="method#search#1;class#Trie#0" />
             <element signature="e#1448#1449#0" expanded="true" />
             <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="method#startsWith#1;class#Trie#0" />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,9 @@
 package tree.trie;
 
-//前缀树：以前没有接触过，遂直接跟着大神的写法过一遍
+// 实现前缀树：以前没有接触过，遂直接跟着大神的写法过一遍
 // 思路看：https://blog.csdn.net/weixin_40374341/article/details/94028364?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3
 // 官方题解文档值得一看，更容易理解啊：https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shi-xian-trie-qian-zhui-shu-by-leetcode/
-public class Trie {
+public class M_208 {
 
     private class Node {
         Node[] childs = new Node[26];
