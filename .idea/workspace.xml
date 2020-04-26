@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/tree/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/trie/M_208.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,47 +78,48 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="44" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="5" />
-          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="39837" />
+          <entry key="java" value="41080" />
           <entry key="txt" value="493" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39837" />
+          <entry key="JAVA" value="41080" />
           <entry key="PLAIN_TEXT" value="500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="65" />
+          <entry key="java" value="66" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="65" />
+          <entry key="JAVA" value="66" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -126,15 +127,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_112.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1444">
-              <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_226.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -196,7 +188,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_501.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="1064">
               <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -207,24 +199,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="361">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
-                <element signature="class#Node#0;class#Trie#0" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="method#insert#1;class#Trie#0" />
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1040#1041#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
-                <element signature="method#search#1;class#Trie#0" />
-                <element signature="e#1448#1449#0" expanded="true" />
-                <element signature="e#1482#1483#0" expanded="true" />
-                <element signature="method#startsWith#1;class#Trie#0" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_677.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+              <folding>
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="method#search#0;class#Trie2#0" />
+                <element signature="e#2746#2747#0" expanded="true" />
+                <element signature="e#2774#2775#0" expanded="true" />
+                <element signature="e#1819#1820#0" expanded="true" />
+                <element signature="e#1849#1850#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -257,6 +257,8 @@
       <find>t2</find>
       <find>res2</find>
       <find>null</find>
+      <find>Node2</find>
+      <find>Trie2</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -265,6 +267,8 @@
       <replace>res1_1</replace>
       <replace>res1_2</replace>
       <replace>655</replace>
+      <replace>Nodes</replace>
+      <replace>MapSum</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -273,7 +277,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedList/E_160.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_83.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_19.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_24.java" />
@@ -324,6 +327,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/trie/Trie.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/trie/M_208.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/trie/M_677.java" />
       </list>
     </option>
   </component>
@@ -341,10 +345,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="753" />
-    <option name="y" value="26" />
-    <option name="width" value="1220" />
-    <option name="height" value="1050" />
+    <option name="x" value="796" />
+    <option name="y" value="122" />
+    <option name="width" value="1485" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectId" id="1THI9fRItkMxp7zS40n7t3Wp8F7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -354,74 +358,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="trie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587649778104" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587911766709" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -445,7 +387,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test1.test1">
+  <component name="RunManager" selected="Application.M_677">
     <configuration name="E_501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.E_501" />
       <module name="LCPractice" />
@@ -485,12 +427,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.M_109" />
+    <configuration name="M_677" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.trie.M_677" />
       <module name="LCPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.*" />
+          <option name="PATTERN" value="tree.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -556,19 +498,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M_109" />
       <item itemvalue="Application.E_653" />
       <item itemvalue="Application.E_530" />
       <item itemvalue="Application.E_501" />
       <item itemvalue="JUnit.Test1.test1" />
+      <item itemvalue="Application.M_677" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M_677" />
         <item itemvalue="JUnit.Test1.test1" />
         <item itemvalue="Application.E_501" />
         <item itemvalue="Application.E_530" />
         <item itemvalue="Application.E_653" />
-        <item itemvalue="Application.M_109" />
       </list>
     </recent_temporary>
   </component>
@@ -642,7 +584,11 @@
       <workItem from="1587210208157" duration="5950000" />
       <workItem from="1587298783302" duration="5423000" />
       <workItem from="1587383578328" duration="49000" />
-      <workItem from="1587644462061" duration="4052000" />
+      <workItem from="1587644462061" duration="4104000" />
+      <workItem from="1587709836549" duration="138000" />
+      <workItem from="1587817123161" duration="2970000" />
+      <workItem from="1587878342443" duration="55000" />
+      <workItem from="1587899602358" duration="6581000" />
     </task>
     <servers />
   </component>
@@ -664,7 +610,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275539000" />
+    <option name="totallyTimeSpent" value="285335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,7 +625,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4852547" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.48449954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -688,17 +634,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4888889" weight="0.33617023" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.32107496" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.35602838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.21702127" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" visible="true" weight="0.24539007" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" weight="0.24539007" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.21216407" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.20283689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -853,17 +799,16 @@
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tree/trie/M_677.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="313" column="28" selection-start-line="313" selection-start-column="28" selection-end-line="313" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/E_206.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1241,12 +1186,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_501.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="1064">
           <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#findMode1#0;class#E_501#0" />
             <element signature="method#findHelper#0;class#E_501#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1258,23 +1214,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_677.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="190">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
           <folding>
-            <element signature="class#Node#0;class#Trie#0" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="method#insert#1;class#Trie#0" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="method#search#1;class#Trie#0" />
-            <element signature="e#1448#1449#0" expanded="true" />
-            <element signature="e#1482#1483#0" expanded="true" />
-            <element signature="method#startsWith#1;class#Trie#0" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="method#search#0;class#Trie2#0" />
+            <element signature="e#2746#2747#0" expanded="true" />
+            <element signature="e#2774#2775#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
           </folding>
         </state>
       </provider>
