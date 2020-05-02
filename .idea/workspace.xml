@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,10 +79,10 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="48" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="9" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="7" />
           <entry key="project.open.time.14" value="1" />
@@ -96,32 +97,32 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="43208" />
-          <entry key="txt" value="523" />
+          <entry key="java" value="44219" />
+          <entry key="txt" value="545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="43208" />
-          <entry key="PLAIN_TEXT" value="530" />
+          <entry key="JAVA" value="44219" />
+          <entry key="PLAIN_TEXT" value="552" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="71" />
+          <entry key="java" value="73" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="71" />
+          <entry key="JAVA" value="73" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="UML" value="1" />
         </counts>
@@ -131,117 +132,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_501.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+            <state relative-caret-position="152">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#findMode1#0;class#E_501#0" />
-                <element signature="method#findHelper#0;class#E_501#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_208.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tree/trie/M_677.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_232.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_225.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-                <element signature="e#941#942#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
+                <element signature="method#isValid1#0;class#E_20#0" />
+                <element signature="e#245#256#0" expanded="true" />
+                <element signature="e#1016#1027#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_115.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+            <state relative-caret-position="171">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1110#1111#0" expanded="true" />
-                <element signature="e#1137#1138#0" expanded="true" />
-                <element signature="e#1163#1164#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#dailyTemperatures1#0;class#M_739#0" />
+                <element signature="e#958#967#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2109">
-              <caret line="144" column="7" lean-forward="true" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -286,8 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/linkedList/M_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_445.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_21.java" />
@@ -335,8 +246,10 @@
         <option value="$PROJECT_DIR$/src/main/java/tree/trie/M_677.java" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_232.java" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_225.java" />
-        <option value="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_115.java" />
+        <option value="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java" />
+        <option value="$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java" />
       </list>
     </option>
   </component>
@@ -353,10 +266,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="546" />
-    <option name="y" value="75" />
-    <option name="width" value="1225" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="810" />
+    <option name="y" value="60" />
+    <option name="width" value="1095" />
     <option name="height" value="835" />
   </component>
   <component name="ProjectId" id="1THI9fRItkMxp7zS40n7t3Wp8F7" />
@@ -368,6 +281,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -401,28 +316,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="queueAndstack" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="queueAndstack" type="462c0819:PsiDirectoryNode" />
-              <item name="E_232.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588168078114" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/proj/NB" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588340980756" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -445,9 +349,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E_115">
+  <component name="RunManager" selected="Application.M_739">
     <configuration name="E_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queueAndstack.E_115" />
+      <module name="LCPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queueAndstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueAndstack.E_20" />
       <module name="LCPractice" />
       <extension name="coverage">
         <pattern>
@@ -472,19 +389,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.E_501" />
-      <module name="LCPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="M_677" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.trie.M_677" />
       <module name="LCPractice" />
@@ -498,12 +402,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="M_739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueAndstack.M_739" />
       <module name="LCPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test1" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queueAndstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -556,19 +463,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.E_501" />
-      <item itemvalue="JUnit.Test1.test1" />
       <item itemvalue="Application.M_677" />
       <item itemvalue="Application.E_232" />
       <item itemvalue="Application.E_115" />
+      <item itemvalue="Application.E_20" />
+      <item itemvalue="Application.M_739" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M_739" />
+        <item itemvalue="Application.E_20" />
         <item itemvalue="Application.E_115" />
         <item itemvalue="Application.E_232" />
         <item itemvalue="Application.M_677" />
-        <item itemvalue="JUnit.Test1.test1" />
-        <item itemvalue="Application.E_501" />
       </list>
     </recent_temporary>
   </component>
@@ -650,7 +557,9 @@
       <workItem from="1587968896072" duration="7000" />
       <workItem from="1587991221731" duration="4203000" />
       <workItem from="1588060797389" duration="993000" />
-      <workItem from="1588161741424" duration="6293000" />
+      <workItem from="1588161741424" duration="6457000" />
+      <workItem from="1588237034885" duration="564000" />
+      <workItem from="1588336739295" duration="4138000" />
     </task>
     <servers />
   </component>
@@ -672,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296879000" />
+    <option name="totallyTimeSpent" value="301745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -684,10 +593,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="649" y="49" width="876" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.66957104" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17962466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -696,8 +605,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4888889" weight="0.35602838" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" visible="true" weight="0.26950353" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4888889" weight="0.28037384" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.26950353" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
@@ -706,7 +615,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.20141844" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -877,20 +786,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/javafx-src.zip!/javafx/util/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/E_160.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1200,6 +1095,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/java.util.Queue">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Queue</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.Queue</node>
+            <node x="" y="">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="95.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_501.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -1230,6 +1145,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_225.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="144" column="7" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1237,81 +1183,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_232.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_115.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Queue">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Queue</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.Queue</node>
-            <node x="" y="">java.lang.Iterable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.5" y="95.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2109">
-          <caret line="144" column="7" lean-forward="true" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_225.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        <state relative-caret-position="162">
+          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_115.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="method#isValid1#0;class#E_20#0" />
+            <element signature="e#245#256#0" expanded="true" />
+            <element signature="e#1016#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#dailyTemperatures1#0;class#M_739#0" />
+            <element signature="e#958#967#0" expanded="true" />
           </folding>
         </state>
       </provider>
