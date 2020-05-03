@@ -285,9 +285,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="725" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="682" />
+    <option name="y" value="47" />
     <option name="width" value="1142" />
     <option name="height" value="963" />
   </component>
@@ -344,7 +344,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588515101343" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588515961994" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -581,7 +581,7 @@
       <workItem from="1588336739295" duration="4138000" />
       <workItem from="1588399912787" duration="700000" />
       <workItem from="1588501781322" duration="6591000" />
-      <workItem from="1588513952589" duration="948000" />
+      <workItem from="1588513952589" duration="1807000" />
     </task>
     <servers />
   </component>
@@ -603,7 +603,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309984000" />
+    <option name="totallyTimeSpent" value="310843000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -615,9 +615,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="794" y="40" width="699" height="770" extended-state="0" />
+    <frame x="546" y="38" width="913" height="770" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2277691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17076023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
