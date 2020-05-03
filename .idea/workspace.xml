@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,11 +78,11 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="9" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="7" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="5" />
@@ -97,32 +96,32 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="51" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="44219" />
+          <entry key="java" value="45168" />
           <entry key="txt" value="545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="44219" />
+          <entry key="JAVA" value="45168" />
           <entry key="PLAIN_TEXT" value="552" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="75" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="75" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="UML" value="1" />
         </counts>
@@ -135,26 +134,44 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
                 <element signature="method#isValid1#0;class#E_20#0" />
-                <element signature="e#245#256#0" expanded="true" />
-                <element signature="e#1016#1027#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_503.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="357">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#dailyTemperatures1#0;class#M_739#0" />
-                <element signature="e#958#967#0" expanded="true" />
+                <element signature="e#707#716#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -180,6 +197,7 @@
       <find>Node2</find>
       <find>Trie2</find>
       <find>stack2</find>
+      <find>nums.length</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -191,6 +209,7 @@
       <replace>Nodes</replace>
       <replace>MapSum</replace>
       <replace>out</replace>
+      <replace>length</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -199,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedList/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/M_445.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_21.java" />
         <option value="$PROJECT_DIR$/src/main/java/linkedList/E_234.java" />
@@ -250,6 +268,7 @@
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java" />
+        <option value="$PROJECT_DIR$/src/main/java/queueAndstack/M_503.java" />
       </list>
     </option>
   </component>
@@ -267,10 +286,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="810" />
-    <option name="y" value="60" />
+    <option name="x" value="973" />
+    <option name="y" value="37" />
     <option name="width" value="1095" />
-    <option name="height" value="835" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectId" id="1THI9fRItkMxp7zS40n7t3Wp8F7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -281,7 +300,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -320,12 +338,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588340980756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588511574301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -349,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.M_739">
+  <component name="RunManager" selected="Application.M_503">
     <configuration name="E_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queueAndstack.E_115" />
       <module name="LCPractice" />
@@ -389,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_677" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.trie.M_677" />
+    <configuration name="M_503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueAndstack.M_503" />
       <module name="LCPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tree.trie.*" />
+          <option name="PATTERN" value="queueAndstack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,19 +482,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M_677" />
       <item itemvalue="Application.E_232" />
       <item itemvalue="Application.E_115" />
       <item itemvalue="Application.E_20" />
       <item itemvalue="Application.M_739" />
+      <item itemvalue="Application.M_503" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M_503" />
         <item itemvalue="Application.M_739" />
         <item itemvalue="Application.E_20" />
         <item itemvalue="Application.E_115" />
         <item itemvalue="Application.E_232" />
-        <item itemvalue="Application.M_677" />
       </list>
     </recent_temporary>
   </component>
@@ -560,6 +579,8 @@
       <workItem from="1588161741424" duration="6457000" />
       <workItem from="1588237034885" duration="564000" />
       <workItem from="1588336739295" duration="4138000" />
+      <workItem from="1588399912787" duration="700000" />
+      <workItem from="1588501781322" duration="5456000" />
     </task>
     <servers />
   </component>
@@ -581,7 +602,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301745000" />
+    <option name="totallyTimeSpent" value="307901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,10 +614,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="649" y="49" width="876" height="668" extended-state="0" />
+    <frame x="682" y="0" width="876" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17962466" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17848411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -605,17 +626,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4888889" weight="0.28037384" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.26950353" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.27977043" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.2682927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" weight="0.4822695" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" weight="0.1420373" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.2" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.19942611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -782,17 +803,16 @@
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/queueAndstack/M_503.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/E_160.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22458">
@@ -1131,10 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,9 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,13 +1179,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
           <caret line="144" column="7" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1200,23 +1206,37 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <element signature="method#isValid1#0;class#E_20#0" />
-            <element signature="e#245#256#0" expanded="true" />
-            <element signature="e#1016#1027#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="-90">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#dailyTemperatures1#0;class#M_739#0" />
-            <element signature="e#958#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/queueAndstack/M_503.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#707#716#0" expanded="true" />
           </folding>
         </state>
       </provider>
