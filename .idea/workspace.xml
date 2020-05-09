@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hash/E_217.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hash/E_217.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,9 +78,9 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="58" />
           <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.10" value="9" />
+          <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="7" />
@@ -95,37 +92,37 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="4" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="57" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="48025" />
+          <entry key="java" value="49436" />
           <entry key="txt" value="569" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="48025" />
+          <entry key="JAVA" value="49436" />
           <entry key="PLAIN_TEXT" value="576" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="79" />
+          <entry key="java" value="80" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="84" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="UML" value="1" />
         </counts>
@@ -156,23 +153,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_217.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="551">
               <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <folding>
-                <element signature="e#451#460#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_594.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_594.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hash/H_128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="77" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
               <folding>
-                <element signature="e#458#476#0" expanded="true" />
-                <element signature="e#1512#1530#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,11 +183,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="399">
               <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#456#474#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -242,7 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/linkedList/M_328.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_543.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_226.java" />
@@ -293,6 +293,7 @@
         <option value="$PROJECT_DIR$/src/main/java/hash/E_217.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hash/E_594.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/H_128.java" />
       </list>
     </option>
   </component>
@@ -309,10 +310,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="782" />
-    <option name="width" value="1145" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="761" />
+    <option name="y" value="91" />
+    <option name="width" value="1080" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectId" id="1THI9fRItkMxp7zS40n7t3Wp8F7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -323,6 +325,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,39 +359,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="queueAndstack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588859617336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589034386471" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -412,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E_594">
+  <component name="RunManager" selected="Application.H_128">
     <configuration name="E_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.E_1" />
       <module name="LCPractice" />
@@ -452,12 +433,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queueAndstack.M_503" />
+    <configuration name="H_128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.H_128" />
       <module name="LCPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queueAndstack.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -523,19 +504,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M_503" />
       <item itemvalue="Application.E_1" />
       <item itemvalue="Application.E_217" />
       <item itemvalue="JUnit.Test1.test2" />
       <item itemvalue="Application.E_594" />
+      <item itemvalue="Application.H_128" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H_128" />
         <item itemvalue="Application.E_594" />
         <item itemvalue="JUnit.Test1.test2" />
         <item itemvalue="Application.E_217" />
         <item itemvalue="Application.E_1" />
-        <item itemvalue="Application.M_503" />
       </list>
     </recent_temporary>
   </component>
@@ -625,7 +606,9 @@
       <workItem from="1588513952589" duration="948000" />
       <workItem from="1588584415060" duration="38000" />
       <workItem from="1588678033761" duration="4883000" />
-      <workItem from="1588846740359" duration="4309000" />
+      <workItem from="1588846740359" duration="4665000" />
+      <workItem from="1588913570035" duration="57000" />
+      <workItem from="1589029203098" duration="5118000" />
     </task>
     <servers />
   </component>
@@ -650,7 +633,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319581000" />
+    <option name="totallyTimeSpent" value="325112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,10 +645,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="626" y="0" width="916" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32634032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23994638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -674,13 +657,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.22381635" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.3771518" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.2212766" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.23404256" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" type="SLIDING" weight="0.4460094" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" type="SLIDING" weight="0.44113475" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
@@ -859,21 +842,20 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hash/E_594.java</url>
-          <line>51</line>
+          <line>52</line>
           <properties />
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hash/H_128.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5263">
-          <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/sum.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1226,9 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="method#isValid1#0;class#E_20#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1236,9 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1271,6 +1247,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_217.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hash/sum.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1278,34 +1271,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#451#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#456#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_594.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="77" selection-end-column="19" />
+        <state relative-caret-position="333">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/H_128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
           <folding>
-            <element signature="e#458#476#0" expanded="true" />
-            <element signature="e#1512#1530#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
