@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c9af7d8-45a5-4646-8fc0-3ff891abd415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hash/sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hash/sum.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +79,7 @@
     <session id="1269587820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="58" />
+          <entry key="project.closed" value="60" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="2" />
@@ -86,44 +87,44 @@
           <entry key="project.open.time.13" value="7" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="5" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="4" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="49436" />
-          <entry key="txt" value="569" />
+          <entry key="java" value="50975" />
+          <entry key="txt" value="659" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="49436" />
-          <entry key="PLAIN_TEXT" value="576" />
+          <entry key="JAVA" value="50975" />
+          <entry key="PLAIN_TEXT" value="666" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="80" />
-          <entry key="txt" value="8" />
+          <entry key="java" value="82" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="84" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="JAVA" value="86" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -162,19 +163,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_594.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="746">
               <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hash/H_128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+            <state relative-caret-position="361">
+              <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/string/sum.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/string/BeautyOfProgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="97" column="35" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="622" selection-start-line="622" selection-end-line="622" />
+              <folding>
+                <element signature="e#22821#22822#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,20 +214,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="133">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hash/sum.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -243,8 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/E_543.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_226.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_617.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/E_112.java" />
@@ -288,12 +308,14 @@
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/E_20.java" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/M_739.java" />
         <option value="$PROJECT_DIR$/src/main/java/queueAndstack/M_503.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hash/sum.txt" />
         <option value="$PROJECT_DIR$/src/main/java/hash/E_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hash/E_217.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hash/E_594.java" />
         <option value="$PROJECT_DIR$/src/main/java/hash/H_128.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/sum.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/string/sum.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/string/BeautyOfProgram.java" />
       </list>
     </option>
   </component>
@@ -310,9 +332,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="761" />
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="876" />
+    <option name="y" value="30" />
     <option name="width" value="1080" />
     <option name="height" value="975" />
   </component>
@@ -325,7 +347,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,18 +380,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589034386471" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589208942122" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructure" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -393,33 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.H_128">
-    <configuration name="E_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.E_1" />
-      <module name="LCPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.E_217" />
-      <module name="LCPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.BeautyOfProgram.test3">
     <configuration name="E_594" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.E_594" />
       <module name="LCPractice" />
@@ -446,11 +450,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BeautyOfProgram.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LCPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.BeautyOfProgram" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeautyOfProgram.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LCPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.BeautyOfProgram" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeautyOfProgram.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LCPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.BeautyOfProgram" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -504,19 +546,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.E_1" />
-      <item itemvalue="Application.E_217" />
-      <item itemvalue="JUnit.Test1.test2" />
       <item itemvalue="Application.E_594" />
       <item itemvalue="Application.H_128" />
+      <item itemvalue="JUnit.BeautyOfProgram.test1" />
+      <item itemvalue="JUnit.BeautyOfProgram.test2" />
+      <item itemvalue="JUnit.BeautyOfProgram.test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BeautyOfProgram.test3" />
+        <item itemvalue="JUnit.BeautyOfProgram.test2" />
+        <item itemvalue="JUnit.BeautyOfProgram.test1" />
         <item itemvalue="Application.H_128" />
         <item itemvalue="Application.E_594" />
-        <item itemvalue="JUnit.Test1.test2" />
-        <item itemvalue="Application.E_217" />
-        <item itemvalue="Application.E_1" />
       </list>
     </recent_temporary>
   </component>
@@ -608,32 +650,46 @@
       <workItem from="1588678033761" duration="4883000" />
       <workItem from="1588846740359" duration="4665000" />
       <workItem from="1588913570035" duration="57000" />
-      <workItem from="1589029203098" duration="5118000" />
+      <workItem from="1589029203098" duration="5371000" />
+      <workItem from="1589091177575" duration="26000" />
+      <workItem from="1589203968882" duration="4952000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test1_test1 - 2020.04.23 at 21h 20m 18s.xml">
-      <configuration name="Test1.test1" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test2 - 2020.05.11 at 22h 27m 25s.xml">
+      <configuration name="BeautyOfProgram.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_test1 - 2020.04.23 at 21h 20m 37s.xml">
-      <configuration name="Test1.test1" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test2 - 2020.05.11 at 22h 29m 21s.xml">
+      <configuration name="BeautyOfProgram.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_test1 - 2020.04.23 at 21h 20m 59s.xml">
-      <configuration name="Test1.test1" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test2 - 2020.05.11 at 22h 29m 33s.xml">
+      <configuration name="BeautyOfProgram.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_test1 - 2020.04.23 at 21h 26m 10s.xml">
-      <configuration name="Test1.test1" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test2 - 2020.05.11 at 22h 33m 18s.xml">
+      <configuration name="BeautyOfProgram.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_test1 - 2020.04.23 at 21h 26m 22s.xml">
-      <configuration name="Test1.test1" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test2 - 2020.05.11 at 22h 34m 03s.xml">
+      <configuration name="BeautyOfProgram.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_test2 - 2020.05.07 at 21h 05m 19s.xml">
-      <configuration name="Test1.test2" configurationId="JUnit" />
+    <history-entry file="BeautyOfProgram_test3 - 2020.05.11 at 22h 43m 38s.xml">
+      <configuration name="BeautyOfProgram.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeautyOfProgram_test3 - 2020.05.11 at 22h 50m 36s.xml">
+      <configuration name="BeautyOfProgram.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeautyOfProgram_test3 - 2020.05.11 at 22h 51m 44s.xml">
+      <configuration name="BeautyOfProgram.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeautyOfProgram_test3 - 2020.05.11 at 22h 53m 32s.xml">
+      <configuration name="BeautyOfProgram.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeautyOfProgram_test3 - 2020.05.11 at 22h 53m 57s.xml">
+      <configuration name="BeautyOfProgram.test3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325112000" />
+    <option name="totallyTimeSpent" value="330343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,10 +701,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="701" y="24" width="864" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23994638" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4565757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -657,14 +713,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.2212766" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.23404256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48635235" visible="true" weight="0.37403402" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4979798" weight="0.3477589" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283859" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4939394" type="SLIDING" weight="0.44113475" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51111114" side_tool="true" weight="0.30321592" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5136476" side_tool="true" weight="0.22102009" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="11" sideWeight="0.49932975" weight="0.6241033" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4909091" weight="0.19716312" />
@@ -856,31 +912,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedList/sum.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_543.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#maxDepth#0;class#E_543#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_687.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tree/E_671.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
@@ -1254,37 +1285,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/H_128.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="361">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hash/sum.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hash/E_594.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="746">
           <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hash/H_128.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/sum.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        <state relative-caret-position="247">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/string/sum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+          <folding>
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/string/BeautyOfProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="97" column="35" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
         </state>
       </provider>
     </entry>
